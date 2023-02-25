@@ -1,3 +1,9 @@
+player1_name = localStorage.getItem("user1");
+player2_name = localStorage.getItem("user2");
+player1_score = 0;
+player2_score = 0;
+
+
 function send(){
 
 number1 = document.getElementById("questuon_input1").value
