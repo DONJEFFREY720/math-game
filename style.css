@@ -20,7 +20,7 @@ font-family: cursive;
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+#questuon_input2,#questuon_input1
 {
 	width: 60%;
 }
