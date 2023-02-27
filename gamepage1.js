@@ -25,7 +25,7 @@ document.getElementById("questuon_input1").value="";
 document.getElementById("questuon_input2").value="";
 }
 
-function check{
+function check(){
 
         answer_player=document.getElementById("input_check_box").value
             if(actual_answer==answer_player){
