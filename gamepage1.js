@@ -2,6 +2,8 @@ player1_name = localStorage.getItem("user1");
 player2_name = localStorage.getItem("user2");
 player1_score = 0;
 player2_score = 0;
+answer_TURN = "player2"
+question_TURN ="player1";
 
 document.getElementById("player1_name").innerHTML = player1_name + " : ";
 document.getElementById("player2_name").innerHTML = player2_name + " : ";
